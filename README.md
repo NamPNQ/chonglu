@@ -1,2 +1,3 @@
-# chonglu
-Chống Lũ - SYN Flood Stopper
+# Chống Lũ - The version of chonglu, implement in rust-lang
+
+The awesome is coming...
